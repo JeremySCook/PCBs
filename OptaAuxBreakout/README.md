@@ -1,1 +1,1 @@
-Opta Aux Breakout
+Breakout for the Arduino Aux port
