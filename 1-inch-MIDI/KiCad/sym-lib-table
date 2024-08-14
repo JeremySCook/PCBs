@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "midi")(type "KiCad")(uri "${KIPRJMOD}/midi.pretty/midi.kicad_sym")(options "")(descr ""))
+  (lib (name "easyeda2kicad")(type "KiCad")(uri "${KIPRJMOD}/LCSC-HOOYA/easyeda2kicad.kicad_sym")(options "")(descr ""))
+)
