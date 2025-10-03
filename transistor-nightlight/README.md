@@ -1,3 +1,3 @@
 Transistor Nightlight
 
-![image](nightlight-schematic.png)
+![image](nighlight-schematic.png)
